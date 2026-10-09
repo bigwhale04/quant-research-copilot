@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
+
+# Test cache
+.pytest_cache/
+
+# Runtime outputs
+artifacts/
+outputs/
+
+# System
+.DS_Store
+Thumbs.db
